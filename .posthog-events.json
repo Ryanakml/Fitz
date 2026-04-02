@@ -19,6 +19,7 @@
     "description": "User sign-up attempt failed with an error",
     "file": "app/(auth)/sign-up.tsx"
   },
+  {},
   {
     "event": "user_signed_out",
     "description": "User signs out from the Settings screen",
